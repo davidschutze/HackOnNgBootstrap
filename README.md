@@ -17,6 +17,7 @@ While the Apple desktop AppStore isn't responsive (it is a desktop app after all
 A fun little bit of CSS are the control buttons which are entirely created with CSS without any images. It's always nice to be able to create things like that without images if possible. Sure, not a big data savings over an SVG or sprite, but why not save a little if you can.
 
 Enjoy.
+Live example: https://davidschutze.github.io/HackOnNgBootstrap/index.html
 
 ___
 
