@@ -1,5 +1,5 @@
 # AppStore Carousel
-I decided to play around with hacking the NG-Bootstrap Carousel component and try to make it look a bit more like the Apple AppStore desktop carousel and serve the data up from a little Angular service.\ 
+I decided to play around with hacking the NG-Bootstrap Carousel component and try to make it look a bit more like the Apple AppStore desktop carousel and serve the data up from a little Angular service.
 
 The idea was to use as much as the core ngb-carousel structure as possible, so with some component inheritance I was able to override the original template with my own, but still use the original directive layout (below).
 ```html
